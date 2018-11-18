@@ -1,0 +1,15 @@
+.row > div{
+  padding: 20px;
+  background-color: teal;
+  border: 2px solid black;
+}
+
+ul{
+  font-size: 14px;
+  color: $color;
+}
+
+ol{
+  font-size: 18px;
+  color: $color;
+}
